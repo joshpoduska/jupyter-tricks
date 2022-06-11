@@ -1,0 +1,1 @@
+ipython nbconvert --to html pipelinedashboard.ipynb

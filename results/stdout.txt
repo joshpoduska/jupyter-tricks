@@ -1,0 +1,5 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython nbconvert` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter nbconvert` in the future
+[NbConvertApp] Copying /home/ubuntu/.ipython/profile_default/ipython_nbconvert_config.py -> /home/ubuntu/.jupyter/jupyter_nbconvert_config.py
+[NbConvertApp] Converting notebook pipelinedashboard.ipynb to html
+[NbConvertApp] Writing 410954 bytes to pipelinedashboard.html
